@@ -6,8 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<embed src="{{ site.baseurl }}/files/CV_ShengyuLi.pdf" width="600" height="700" type='application/pdf'>
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Education
 ======
@@ -57,8 +58,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> 
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
