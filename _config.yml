@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shengyu Li's Personal Homepage"
+title                    : "              "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
