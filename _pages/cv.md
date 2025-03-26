@@ -6,7 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="{{ site.baseurl }}/files/CV_ShengyuLi.pdf" width="800" height="900" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/CV_ShengyuLi.pdf" width="900" height="1000" type='application/pdf'>
+<div class="cv-download-links">
+  <a href="{{ site.baseurl }}/files/CV_ShengyuLi.pdf" class="btn btn--primary">Download CV as PDF</a>
+</div>
 
 <!-- {% include base_path %}
 
