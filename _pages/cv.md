@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="{{ site.baseurl }}/files/CV_ShengyuLi.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/CV_ShengyuLi.pdf" width="800" height="900" type='application/pdf'>
 
 <!-- {% include base_path %}
 
