@@ -6,8 +6,8 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-04-03
 venue: 'Nature Biotechnology'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+slidesurl: ''
+paperurl: 'https://github.com/Abclisy/Abclisy.github.io/blob/feature/_pages/A%20relay%20velocity%20model%20infers%20cell-dependent%20RNA%20velocity.pdf'
 citation: 'Shengyu Li, Pengzhi Zhang, Weiqing Chen, Lingqun Ye, Kristopher W. Brannan, Nhat-Tu Le, Jun-ichi Abe, John P. Cooke & Guangyu Wang'
 ---
 
