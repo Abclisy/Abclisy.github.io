@@ -3,6 +3,8 @@ title: "A visual–omics foundation model to bridge histopathology image with tr
 collection: publications
 category: manuscripts
 permalink: /publication/A-visual-paper-title-number-2.md
+date: 2025-00-00
+venue: 'In Press'
 citation: 'Weiqing Chen#, Pengzhi Zhang#, Tu N Tran, Yiwei Xiao, Shengyu Li, Vrutant V. Shah, Hao Cheng, Kristopher W. Brannan, Keith Youker, Lai Li, Longhou Fang, Yu Yang, Nhat-Tu Le, Jun-ichi Abe, Shu-Hsia Chen, Qin Ma, Ken Chen, Qianqian Song, John P. Cooke, Guangyu Wang.'
 ---
 
