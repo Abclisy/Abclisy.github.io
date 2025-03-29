@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2023-04-03-paper-title-number-1.md
 excerpt: 'RNA velocity provides an approach for inferring cellular state transitions from single-cell RNA sequencing (scRNA-seq) data. Conventional RNA velocity models infer universal kinetics from all cells in an scRNA-seq experiment, resulting in unpredictable performance in experiments with multi-stage and/or multi-lineage transition of cell states where the assumption of the same kinetic rates for all cells no longer holds. Here we present cellDancer, a scalable deep neural network that locally infers velocity for each cell from its neighbors and then relays a series of local velocities to provide single-cell resolution inference of velocity kinetics. In the simulation benchmark, cellDancer shows robust performance in multiple kinetic regimes, high dropout ratio datasets and sparse datasets. We show that cellDancer overcomes the limitations of existing RNA velocity models in modeling erythroid maturation and hippocampus development. Moreover, cellDancer provides cell-specific predictions of transcription, splicing and degradation rates, which we identify as potential indicators of cell fate in the mouse pancreas.'
 date: 2023-04-03
-venue: 'Nature Biotechnology'
+venue: 'April 03'
 paperurl: 'https://github.com/Abclisy/Abclisy.github.io/blob/feature/files/A%20relay%20velocity%20model%20infers%20cell-dependent%20RNA%20velocity.pdf'
 citation: 'Shengyu Li, Pengzhi Zhang, Weiqing Chen, Lingqun Ye, Kristopher W. Brannan, Nhat-Tu Le, Jun-ichi Abe, John P. Cooke & Guangyu Wang'
 ---
