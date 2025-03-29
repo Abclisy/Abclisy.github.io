@@ -3,7 +3,7 @@ title: "An ERK5-NRF2 Axis Mediates Senescence-Associated Stemness and Atheroscle
 collection: publications
 category: manuscripts
 permalink: /publication/2023-paper-title-number-3.md
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'We discovered a novel mechanism by which the macrophage ERK5-NRF2 axis develops a unique senescence-associated secretory phenotype/stemness phenotype by upregulating AHR to engender atherogenesis. The finding of senescence-associated stemness phenotype provides a molecular explanation to resolve the paradox of senescence in proliferative plaque by permitting myeloid cells to escape the senescence-induced cell cycle arrest during atherosclerosis formation.'
 date: 2023-06-23
 venue: 'June 23'
 paperurl: 'https://Abclisy.github.io/files/An%20ERK5-NRF2%20Axis%20Mediates%20Senescence-Associated%20Stemness%20and%20Atherosclerosis.pdf'
