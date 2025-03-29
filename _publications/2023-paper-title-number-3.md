@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2023-paper-title-number-3.md
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-06-23
-venue: 'AHA|ASA Journals'
+venue: 'June 23'
 paperurl: 'https://github.com/Abclisy/Abclisy.github.io/blob/feature/files/An%20ERK5-NRF2%20Axis%20Mediates%20Senescence-Associated%20Stemness%20and%20Atherosclerosis.pdf'
 citation: 'Jun-ichi Abe#, Masaki Imanishi#, Shengyu Li#, Aijun Zhang, Kyung Ae Ko, Venkata S.K. Samanthapudi, Ling-Ling Lee, Angelica Paniagua Bojorges, Young Jin Gi, Brian P. Hobbs, Anita Deswal, Joerg Herrmann, Steven H. Lin, Eduardo N. Chini, Ying H. Shen, Keri L. Schadler, Thi-Hong-Minh Nguyen, Anisha A. Gupte, Cielito Reyes-Gibby, Sai-Ching J. Yeung, Rei J. Abe, Elizabeth A. Olmsted-Davis, Sunil Krishnan, Robert Dantzer, Nicolas L. Palaskas, John P. Cooke, Henry J. Pownall, Momoko Yoshimoto, Keigi Fujiwara, Dale J. Hamilton, Jared K. Burks, Guangyu Wang*, Nhat-Tu Le* and Sivareddy Kotla*'
 ---
