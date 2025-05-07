@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Available Positions"
 permalink: /availablepositions/
 author_profile: true
 ---
