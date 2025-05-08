@@ -1,5 +1,5 @@
 ---
-title: "A relay velocity model infers cell-dependent RNA velocity"
+title: "A relay velocity model infers cell-dependent RNA velocity (Nature Biotechnology)"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-04-03-paper-title-number-1.md
