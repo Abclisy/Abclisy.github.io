@@ -1,5 +1,5 @@
 ---
-title: "An ERK5-NRF2 Axis Mediates Senescence-Associated Stemness and Atherosclerosis. Circulation Research (2023)"
+title: "An ERK5-NRF2 Axis Mediates Senescence-Associated Stemness and Atherosclerosis (Circulation Research)"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-paper-title-number-3.md
