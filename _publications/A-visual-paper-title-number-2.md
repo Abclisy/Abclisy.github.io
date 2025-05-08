@@ -1,5 +1,5 @@
 ---
-title: "A visual–omics foundation model to bridge histopathology image with transcriptomics. Nature Methods (In Press)."
+title: "A visual–omics foundation model to bridge histopathology image with transcriptomics. Nature Methods (Nature Methods)."
 collection: publications
 category: manuscripts
 permalink: /publication/A-visual-paper-title-number-2.md
