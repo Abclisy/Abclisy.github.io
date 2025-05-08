@@ -8,8 +8,6 @@ author_profile: true
 
 POSTDOCS
 ======
-Please send a CV, cover letter or research statement, and information for three references to Dr. Shengyu Li ([sli5@houstonmethodist.org](mailto:sli5@houstonmethodist.org)).
-
 
 Qualifications:
 
@@ -23,6 +21,7 @@ Qualifications:
 
 * Strong communication skills, curiosity, and the ability to work independently and collaboratively with computational and experimental scientists. Leadership potential in research projects is expected.
 
+Please send a CV, cover letter or research statement, and information for three references to Dr. Shengyu Li ([sli5@houstonmethodist.org](mailto:sli5@houstonmethodist.org)).
 
 STUDENTS
 ======
