@@ -8,7 +8,7 @@ author_profile: true
 
 POSTDOCS
 ======
-Please send a CV, cover letter or research statement, and information for three references to Dr. Shengyu Li (sli5@houstonmethodist.org).
+Please send a CV, cover letter or research statement, and information for three references to Dr. Shengyu Li ([sli5@houstonmethodist.org](mailto:sli5@houstonmethodist.org)).
 
 
 Qualifications:
@@ -26,4 +26,4 @@ Qualifications:
 
 STUDENTS
 ======
-We have openings for motivated undergraduate and graduate students from various scientific disciplines (machine learning, statistics, engineering, biology, medicine, etc.). Please contact sli5@houstonmethodist.org for more information.
+We have openings for motivated undergraduate and graduate students from various scientific disciplines (machine learning, statistics, engineering, biology, medicine, etc.). Please contact Dr. Li ([sli5@houstonmethodist.org](mailto:sli5@houstonmethodist.org)) for more information.
