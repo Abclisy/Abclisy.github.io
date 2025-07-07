@@ -9,5 +9,5 @@ author_profile: true
 NEWS
 ======
 
-07/2025 Dr. Chengxuan Li will join our team soon! Cheers!<br>
+07/2025 Dr. Chengxuan Li will join our team soon! Cheers!<br><br>
 07/2025 Dr. Li began her appointment as an Assistant Professor at Houston Methodist and Weill Cornell Medical college. 
