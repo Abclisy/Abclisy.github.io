@@ -25,6 +25,9 @@ main:
     
   - title: "Available Positions"
     url: /availablepositions/
+
+  - title: "News"
+    url: /news/
     
   # - title: "CV"
   #   url: /cv-json/
