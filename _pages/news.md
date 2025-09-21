@@ -9,5 +9,5 @@ author_profile: true
 NEWS
 ======
 
-08/2025 Dr. Chengxuan Li joined our lab! Cheers!<br><br>
+08/2025 Dr. Chengxuan Li joined our lab from University of Washington! Cheers!<br><br>
 07/2025 Dr. Li began her appointment as an Assistant Professor at Houston Methodist and Weill Cornell Medical college. 
