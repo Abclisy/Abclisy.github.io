@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-The Li Lab, based at Weill Cornell Medicine and Houston Methodist Research Institute, focuses on integrating **machine learning** (ML), **artificial intelligence** (AI), and **large language models** (LLMs) into biomedical research. Our mission is to leverage cutting-edge computational methods to tackle key challenges in **drug repurposing and discovery**, **vaccine and RNA sequence design**, and to develop **data-driven models that uncover mechanisms of disease development and progression**. 
-
-Our interdisciplinary work lies at the intersection of computer science, systems biology, and translational medicine, with the goal of deepening our understanding of molecular biology and accelerate the translation of these insights into novel diagnostic and therapeutic strategies.
+The Li Lab, based at Weill Cornell Medicine and Houston Methodist Research Institute, focuses on integrating **machine learning** (ML), **artificial intelligence** (AI), and **large language models** (LLMs) into biomedical research. Our interdisciplinary work lies at the intersection of computer science, systems biology, and translational medicine, with the goal of deepening our understanding of molecular biology and accelerate the translation of these insights into novel diagnostic and therapeutic strategies.
 
 
 About Dr. Li
